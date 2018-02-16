@@ -16,6 +16,7 @@ function deleteFromObjectByKey(object, key) {
   return n_object
 }
 
+function destructivelyDeleteFromObjectByKey(object, key)
 
 
   
